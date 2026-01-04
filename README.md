@@ -49,13 +49,13 @@ I build backend services, developer tooling, and image-processing integrations w
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rssaini01&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rssaini01&hide_border=false&theme=transparent" alt="GitHub Profile Summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rssaini01&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rssaini01&hide_border=false&theme=transparent" alt="Top Languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rssaini01&theme=tokyonight" alt="GitHub Stats" />  
-
-<img src="https://streak-stats.demolab.com?user=rssaini01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rssaini01&hide_border=false&theme=transparent&hide" alt="GitHub Stats" />  
+<br>
+<img src="https://streak-stats.demolab.com?user=rssaini01&hide_border=false&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
