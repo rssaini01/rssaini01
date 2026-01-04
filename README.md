@@ -46,15 +46,20 @@ I build backend services, developer tooling, and image-processing integrations w
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rssaini01&hide_border=false&theme=transparent" alt="GitHub Profile Summary" />
+
+<br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rssaini01&hide_border=false&theme=transparent" alt="Top Languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rssaini01&hide_border=false&theme=transparent&hide" alt="GitHub Stats" />  
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rssaini01&hide_border=false&theme=transparent" alt="Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rssaini01&theme=transparent" alt="Most Commit Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rssaini01&theme=transparent&utcOffset=5.3" alt="Commits (UTC +5.30)" />
+
+<br/>
 <img src="https://streak-stats.demolab.com?user=rssaini01&hide_border=false&theme=transparent" alt="GitHub Streak" />
 
 </div>
