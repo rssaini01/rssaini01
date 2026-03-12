@@ -103,11 +103,11 @@ Fabric.js integration for annotations on DeepZoom images.
 <tr>
 <td width="50%">
 
-### 🖥️ [openseadragon-tile-server](https://github.com/rssaini01/openseadragon-tile-server)
-Node.js-based tile server optimized for large image datasets.
+### 🖥️ [openseadragon-capture](https://github.com/rssaini01/openseadragon-capture)
+Capture high-quality screenshots from OpenSeadragon viewers with optional overlay layers.
 
-![Stars](https://img.shields.io/github/stars/rssaini01/openseadragon-tile-server?style=flat-square)
-![Forks](https://img.shields.io/github/forks/rssaini01/openseadragon-tile-server?style=flat-square)
+![Stars](https://img.shields.io/github/stars/rssaini01/openseadragon-capture?style=flat-square)
+![Forks](https://img.shields.io/github/forks/rssaini01/openseadragon-capture?style=flat-square)
 
 </td>
 <td width="50%">
